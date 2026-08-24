@@ -24,13 +24,13 @@ repository               : "chengyuanzhuang/chengyuanzhuang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chengyuan Zhuang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor"
+  location         : "San Juan, Puerto Rico"
+  employer         : "University of Puerto Rico, Río Piedras Campus (UPRRP)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chengyuan.zhuang1@upr.edu" 
 
   # Academic websites
   academia         : # URL
