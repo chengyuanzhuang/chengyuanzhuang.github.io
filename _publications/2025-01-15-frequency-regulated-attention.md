@@ -1,7 +1,7 @@
 ---
 title: "Frequency Regulated Channel-Spatial Attention Module for Improved Image Classification"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2025-01-15-frequency-regulated-attention-module
 date: 2025-01-15
 venue: 'Expert Systems with Applications'
