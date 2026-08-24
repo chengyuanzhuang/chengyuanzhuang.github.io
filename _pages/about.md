@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Chengyuan Zhuang
-
 I am an Assistant Professor in the Department of Computer Science at the University of Puerto Rico, Río Piedras Campus (UPRRP). 
 
 My primary research interests lie in the fields of Computer Vision and Artificial Intelligence, with a specific focus on the design of deep learning architectures and representation learning models applied to localized, cross-disciplinary scenarios.
