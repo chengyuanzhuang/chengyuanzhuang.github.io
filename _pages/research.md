@@ -10,9 +10,9 @@ My research focuses on deep learning model architectures within Computer Vision,
 ---
 
 ## Prior Research Tracks
+* 3D Human Pose Estimation: Developing motion-aware graph fusion models to dynamically reconstruct human motions and tracking.
 * Image Classification & Representation Learning: Investigating frequency-regulated attention mechanisms to improve classification baseline performance.
 * Semantic Segmentation: Designing boundary-enhanced neural networks to capture intricate edge definitions and spatial layouts.
-* 3D Human Pose Estimation: Developing motion-aware graph fusion models to dynamically reconstruct human motions and tracking.
 
 ---
 
