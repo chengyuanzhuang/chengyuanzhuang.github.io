@@ -20,7 +20,6 @@ My research focuses on deep learning model architectures within Computer Vision,
 
 ### National Science Foundation (NSF) Grant
 * Project Title: Research Infrastructure: E-CORE: Research Infrastructure for AI-based Sustainable STEM Technologies in Puerto Rico (RAIS-PR)
-* Grant Number: NSF-2539413
 * Role: Co-Principal Investigator (Co-PI)  
 * Funding Period: 2026 - Present  
 
