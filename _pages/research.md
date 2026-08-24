@@ -24,7 +24,7 @@ Our research laboratory spans the fields of Computer Vision and Artificial Intel
 * Role: Co-Principal Investigator (Co-PI)  
 * Funding Period: 2026 - Present  
 
-#### Project Objective & Regional Impact
+### Project Objective & Regional Impact
 Development of a spatial-temporal model for localized rain nowcasting and short-range severe weather forecasting using multi-source remote sensing data and applications to Grid resiliency.
 
 Supported by the NSF E-CORE RII program, our team at the University of Puerto Rico, Río Piedras Campus (UPRRP) collaborates with partnering institutions to build local research capacity, leverage state-of-the-art AI technologies for climate/infrastructure resilience, and mentor the next generation of STEM researchers in Puerto Rico.
