@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Our research laboratory spans the fields of Computer Vision and Artificial Intelligence, focusing on developing scalable, robust architectures to solve challenging, real-world regional problems.
+My research focuses on deep learning model architectures within Computer Vision, spanning foundational feature representation techniques and their extending deployment in cross-disciplinary scientific applications.
 
 ---
 
