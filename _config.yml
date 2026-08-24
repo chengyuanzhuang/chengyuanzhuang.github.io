@@ -23,7 +23,7 @@ repository               : "chengyuanzhuang/chengyuanzhuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Chengyuan Zhuang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
