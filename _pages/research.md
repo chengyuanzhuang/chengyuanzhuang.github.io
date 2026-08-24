@@ -9,7 +9,7 @@ Our research laboratory spans the fields of Computer Vision and Artificial Intel
 
 ---
 
-## Core Research Fields
+## Prior Research Tracks
 * Image Classification & Representation Learning: Investigating frequency-regulated attention mechanisms to improve classification baseline performance.
 * Semantic Segmentation: Designing boundary-enhanced neural networks to capture intricate edge definitions and spatial layouts.
 * 3D Human Pose Estimation: Developing motion-aware graph fusion models to dynamically reconstruct human motions and tracking.
