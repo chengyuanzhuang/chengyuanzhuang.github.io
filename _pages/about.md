@@ -14,7 +14,7 @@ My primary research interests lie in the fields of Computer Vision and Artificia
 ---
 
 ## Prior Research Tracks & Publications
-My previous research focused on deep learning models and representation learning techniques. The respective peer-reviewed publications have been featured in academic venues such as ESWA, WACV, and ICPR:
+My previous research focused on deep learning models and representation learning techniques. The respective peer-reviewed publications have been featured in academic venues such as WACV, ESWA, and ICPR:
 * Image Classification & Representation Learning: Investigating frequency-regulated attention mechanisms and feature extraction methods to optimize backbone robustness and baseline performance.
 * Semantic Segmentation: Designing hierarchical boundary supervision mechanics to enhance the network's capability in capturing precise edge definitions and spatial layouts.
 * 3D Human Pose Estimation: Developing motion-aware graph fusion networks to achieve robust trajectory tracking and three-dimensional human motion reconstruction.
