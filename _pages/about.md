@@ -25,5 +25,5 @@ My previous research focused on deep learning models and representation learning
 Currently, I am serving as a Co-Principal Investigator (Co-PI) on the following interdisciplinary research project:
 
 ### National Science Foundation (NSF) Grant
-* Project Title: NSF E-CORE RII: Research Infrastructure for Artificial Intelligence (AI)-based Sustainable STEM Technologies in Puerto Rico (RAIS-PR)
-* Research Focus: Localized Weather Nowcasting & Grid Resiliency. Utilizing multi-source remote sensing spatial-temporal networks and localized atmospheric physical constraints to develop high-resolution short-range weather forecasting models, aiming to support local power system disaster mitigation and grid resiliency.
+* Project Title: Research Infrastructure: E-CORE: Research Infrastructure for AI-based Sustainable STEM Technologies in Puerto Rico (RAIS-PR)
+* Research Focus: Localized Weather Nowcasting & Short-Range Forecasting. Utilizing multi-source remote sensing spatial-temporal networks to learn atmospheric characteristics and develop high-resolution weather forecasting models, aiming to support local disaster mitigation.
